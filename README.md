@@ -1,2 +1,1 @@
-# Flightbooking 
- django project with mysql database
+# Aviation-microservices
